@@ -1,6 +1,6 @@
 operation title
 operation message
 operation message
-operation message1
-operation message2
+operation message
+operation message
 operation message
